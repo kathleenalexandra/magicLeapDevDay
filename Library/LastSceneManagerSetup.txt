@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/MagicLeap/MLKathleen/MLKathleen.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
